@@ -29,7 +29,7 @@ cat /home/ubuntu/.ssh/authorized_keys  > /root/.ssh/authorized_keys
 ```bash
 mkdir -p /root/go/src/github.com
 cd /root/go/src/github.com
-git clone https://github.com/click2cloud-alpha-p/fornax.git
+git clone https://github.com/CentaurusInfra/fornax.git
 ```
 ## Run the scripts (Only after completing step 1. in all the three machines):
 
